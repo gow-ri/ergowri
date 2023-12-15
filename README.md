@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gowri</h1>
-<h3 align="center">A passionate software tester from India</h3>
+<h3 align="center">A passionate software tester from Chennai</h3>
 <h4 align="center">Career Change Aspirant: From Citizen Service to Software Testing | Detail-Oriented Fresher with a Testing Mindset</h4>
 
 - 🔭 I’m currently working on [OrangeHRM](https://github.com/ergowri/OrangeHRM-Test-Automation)
