@@ -13,6 +13,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ergowri](https://github.com/ergowri)
 
+- 📝 I regularly write articles on [https://ergowri.github.io/](https://ergowri.github.io/)
+
 - 💬 Ask me about **software testing**
 
 - 📫 How to reach me **gowri.s@zohomail.in**
