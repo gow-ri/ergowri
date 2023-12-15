@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gowri</h1>
 <h3 align="center">A passionate software tester from Chennai</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ergowri&label=Profile%20views&color=0e75b6&style=flat" alt="ergowri" /> </p>
+
 - 🔭 I’m currently working on [OrangeHRM](https://github.com/ergowri/OrangeHRM-Test-Automation)
 
 - 🌱 I’m currently learning **TestNG**
