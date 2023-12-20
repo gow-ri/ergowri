@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ergowri](https://github.com/ergowri)
 
-- 📝 I regularly write articles on [https://ergowri.github.io/](https://ergowri.github.io/)
+- 📝 I regularly write articles on 
 
 - 💬 Ask me about **software testing**
 
