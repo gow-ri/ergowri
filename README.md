@@ -13,14 +13,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ergowri](https://github.com/ergowri)
 
-- 📝 I regularly write articles on 
-
-- 💬 Ask me about **software testing**
-
-- 📫 How to reach me **gowri.s@zohomail.in**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/11bSM0nOQ2lasb2gKgrwdwLCV0fZplfhP/view?usp=sharing](https://drive.google.com/file/d/11bSM0nOQ2lasb2gKgrwdwLCV0fZplfhP/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
